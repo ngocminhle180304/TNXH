@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T18:34:58.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QyK7HhZCg6WDGGVOaUE7" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T18:45:09.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aSOnwQpU55fJUonKOHb1" version="24.3.1" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="1706" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -366,11 +366,14 @@
             <mxPoint x="610" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bPV10nNNfklK_cCQfrOE-6" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-430" width="1290" height="1030" as="geometry" />
+        <mxCell id="bPV10nNNfklK_cCQfrOE-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-420" width="1280" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="SIpU3GQDiBb23OiQXn7Q-60" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" parent="bPV10nNNfklK_cCQfrOE-6" vertex="1">
-          <mxGeometry x="550" y="505" width="160" height="55" as="geometry" />
+        <mxCell id="SIpU3GQDiBb23OiQXn7Q-60" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" parent="bPV10nNNfklK_cCQfrOE-9" vertex="1">
+          <mxGeometry x="540" y="455" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="bPV10nNNfklK_cCQfrOE-10" value="&lt;span style=&quot;font-size:13.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Aptos;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;&lt;b&gt;Hệ thống quản lý thông tin y tế&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-392" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
